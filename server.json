@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Website development",
+      "type": "income",
+      "category": "Sale",
+      "price": "14000",
+      "createdAt": "2025-02-13T10:15:10.917Z"
+    },
+    {
+      "id": 2,
+      "description": "Market",
+      "type": "outcome",
+      "category": "Food",
+      "price": "500",
+      "createdAt": "2025-02-13T17:15:39.061Z"
+    },
+    {
+      "id": 3,
+      "description": "Marketing",
+      "type": "income",
+      "category": "Sale",
+      "price": "1500",
+      "createdAt": "2025-01-31T10:15:10.917Z"
+    },
+    {
+      "id": 4,
+      "description": "Mc Donalds",
+      "type": "outcome",
+      "category": "Food",
+      "price": "100",
+      "createdAt": "2024-11-20T10:15:10.917Z"
+    },
+    {
+      "description": "Mobile",
+      "category": "Sale",
+      "price": 1000,
+      "type": "income",
+      "createdAt": "2025-02-13T17:17:39.061Z",
+      "id": 5
+    },
+    {
+      "description": "Shirt",
+      "category": "Clothes",
+      "price": 20,
+      "type": "outcome",
+      "createdAt": "2025-02-13T17:23:22.285Z",
+      "id": 6
+    },
+    {
+      "description": "banana",
+      "category": "food",
+      "price": 9,
+      "type": "outcome",
+      "createdAt": "2025-02-13T17:35:36.677Z",
+      "id": 7
+    }
+  ]
+}
